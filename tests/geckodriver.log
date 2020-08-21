@@ -1,0 +1,22 @@
+1597774891969	mozrunner::runner	INFO	Running command: "/Applications/Firefox.app/Contents/MacOS/firefox-bin" "-marionette" "-foreground" "-no-remote" "-profile" "/var/folders/c6/dg31x76j2p337k27smtq2qrm0000gp/T/rust_mozprofilefmrbPm"
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1597774894132	Marionette	INFO	Listening on port 53953
+1597774894175	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: resource://gre/modules/URIFixup.jsm, line 281: NS_ERROR_FAILURE: Should pass a non-null uri
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: , line 0: TypeError: NetworkError when attempting to fetch resource.
+JavaScript error: https://static.avito.ru/s/cc/bundles/59048df36fe712ce918b.js, line 1: ChunkLoadError: Loading chunk a2f8533a failed.
+(error: https://static.avito.ru/s/cc/chunks/a4542eed96c0acc1225c.js)
+JavaScript error: https://static.avito.ru/s/cc/bundles/59048df36fe712ce918b.js, line 1: ChunkLoadError: Loading chunk ddca1804 failed.
+(error: https://static.avito.ru/s/cc/chunks/f90749ac288587b1a7e7.js)
+JavaScript error: https://static.avito.ru/s/cc/bundles/59048df36fe712ce918b.js, line 1: ChunkLoadError: Loading chunk 2cb07ae8 failed.
+(error: https://static.avito.ru/s/cc/chunks/27cfc5a5d8e80e94239b.js)
+JavaScript error: https://static.avito.ru/s/cc/bundles/59048df36fe712ce918b.js, line 1: ChunkLoadError: Loading chunk d3d2506d failed.
+(error: https://static.avito.ru/s/cc/chunks/ed288ce9ebd1364f002e.js)
+JavaScript error: https://static.avito.ru/s/cc/bundles/59048df36fe712ce918b.js, line 1: ChunkLoadError: Loading chunk 9aa75c9a failed.
+(error: https://static.avito.ru/s/cc/chunks/8c2b51b88e05beaaba2e.js)
+1597774903475	Marionette	INFO	Stopped listening on port 53953
+JavaScript error: https://static.avito.ru/s/cc/chunks/f307f880adc11487704a.js, line 1: NetworkError: A network error occurred.
+JavaScript error: https://static.avito.ru/s/cc/bundles/59048df36fe712ce918b.js, line 1: ChunkLoadError: Loading chunk 1c0d4dc2 failed.
+(error: https://static.avito.ru/s/cc/chunks/391875bf6b107758c98a.js)
+JavaScript error: https://static.avito.ru/s/cc/chunks/f307f880adc11487704a.js, line 1: TypeError: NetworkError when attempting to fetch resource.
